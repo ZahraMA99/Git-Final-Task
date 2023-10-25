@@ -2,4 +2,9 @@
 function calculateSum(a: number, b: number): number {
     return a + b;
 }
-console.log(calculateSum);
+<<<<<<< HEAD
+//console.log(calculateSum);
+=======
+// console.log
+// change 2
+>>>>>>> feature-branch
